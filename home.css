@@ -1,0 +1,17 @@
+h1 {
+    color: lavender;
+}
+.henlo {
+    color: lemonchiffon;
+}
+.body {
+    background-color: black;
+}
+@media (max-width: 600px) {
+    .body {
+      background-color: olive;
+    }
+    img {
+        border-radius: 50%;
+      }
+  }
